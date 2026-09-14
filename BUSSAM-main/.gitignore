@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.env
+
+# Logs
+*.log
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# Dataset
+datasets/
+dataset/
+data/
+
+# Generated outputs
+outputs/
+checkpoints/
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
